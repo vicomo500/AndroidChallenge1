@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Android Challenge 1</string>
+    <string name="title_activity_main">ALC 4 Phase 1</string>
+    <string name="title_activity_about">About ALC</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="student_name">Victor Omofuma</string>
+    <string name="track_label">Track:</string>
+    <string name="track_value">Android</string>
+    <string name="country_label">Country:</string>
+    <string name="country_value">Nigeria</string>
+    <string name="email_label">Email:</string>
+    <string name="email_value">vicomo500@gmail.com</string>
+    <string name="phone_label">Phone Number:</string>
+    <string name="phone_value">2348137920871</string>
+    <string name="slack_handle_label">Slack Username:</string>
+    <string name="slack_handle_value">"\@vicomo"</string>
+    <string name="logo_content_desc">Profile Picture</string>
+    <string name="welcome_title">Welcome to ALC 4.0</string>
+    <string name="btn_about_text">ABOUT ALC</string>
+    <string name="btn_profile_text">MY PROFILE</string>
+</resources>

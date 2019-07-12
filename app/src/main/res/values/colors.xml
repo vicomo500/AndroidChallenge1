@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3259da</color>
+    <color name="colorPrimaryDark">#2d50c4</color>
+    <color name="colorAccent">#da3259</color>
+    <color name="colorWindowBg">#fafafa</color>
+    <color name="tv_text_color">#a6a6a6</color>
+    <color name="hrline_color">#3e3e3e</color>
+    <color name="btn_bg_color">#feaf30</color>
+    <color name="btn_text_color">#140d04</color>
+</resources>

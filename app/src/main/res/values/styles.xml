@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/colorWindowBg</item>
+        <item name="android:textViewStyle">@style/AppTheme.TextStyle</item>
+        <item name="buttonStyle">@style/AppTheme.ButtonStyle</item>
+    </style>
+
+    <style name="AppTheme.TextStyle">
+        <item name="android:textColor">@color/tv_text_color</item>
+        <item name="android:fontFamily">@font/mobi_playpea</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+    </style>
+
+    <style name="AppTheme.ButtonStyle">
+        <item name="android:background">@color/btn_bg_color</item>
+        <item name="android:textColor">@color/btn_text_color</item>
+        <item name="android:fontFamily">@font/mobi_playpea</item>
+        <item name="android:paddingTop">@dimen/btn_padding_vt</item>
+        <item name="android:paddingBottom">@dimen/btn_padding_vt</item>
+        <item name="android:paddingStart">@dimen/btn_padding_hr</item>
+        <item name="android:paddingEnd">@dimen/btn_padding_hr</item>
+    </style>
+
+</resources>
